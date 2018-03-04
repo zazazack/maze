@@ -12,6 +12,7 @@ python_version = "3.6"
 
 [dev-packages]
 
+"e1839a8" = {path = ".", editable = true}
 
 
 [packages]

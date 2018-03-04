@@ -1,7 +1,7 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
-    dict(
-        name='maze'
-    )
+    name='maze',
+    version='0.0.0',
+    packages=find_packages()
 )
